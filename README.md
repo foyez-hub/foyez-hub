@@ -28,7 +28,7 @@ I'm a passionate Full-Stack Developer with a Bachelor's degree in Computer Scien
 
 ## 💼 Experience
 
-### Hostrare Ltd | Full-stack Laravel Developer
+### Hostrare Ltd |Intern Full-stack Laravel Developer
 - Developed dynamic currency symbol change feature and Hot Deal Products page.
 - Ensured accuracy in discounts and price calculations across all product pages.
 
@@ -41,7 +41,6 @@ I'm a passionate Full-Stack Developer with a Bachelor's degree in Computer Scien
 ## 🌱 Interests
 
 - **Machine Learning**
-- **Bioinformatics**
 - **Natural Language Processing**
 
 ## 📂 Projects
