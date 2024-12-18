@@ -18,7 +18,7 @@
 ---
 
 ### 💼 **Experience**
-- ** Machine Learning Engineer** at Nascenia | July 2024 - Present
+- **Machine Learning Engineer** at Nascenia | July 2024 - Present
   - Developed RAG models with Llama 2 and GPT, utilizing ChromaDB for efficient NLP tasks.
   - Fine-tuned BanglaT5 for accurate Bengali-English translation, enhancing training with custom datasets.
 
