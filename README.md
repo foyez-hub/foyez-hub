@@ -1,5 +1,5 @@
 # Hi there! I'm Emam Hasan 👋
-**Aspiring Machine Learning Engineer | Competitive Programmer**
+**Machine Learning Engineer | Competitive Programmer**
 
 [![LinkedIn](https://img.shields.io/badge/-Emam_Hasan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emam-hasan302)](https://www.linkedin.com/in/emam-hasan302)
 [![GitHub](https://img.shields.io/badge/-foyez--hub-black?style=flat&logo=github&logoColor=white&link=https://github.com/foyez-hub)](https://github.com/foyez-hub)
